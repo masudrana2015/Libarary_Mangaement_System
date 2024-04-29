@@ -48,21 +48,7 @@
    - request a loan
    
    
-  **Run this project**
-  
-  -For running this project , you must have installed JDK and NetBeans.
-  
-  
-  -Create a new project using netbeans and include these files in source code folder.
-  
-  
-  -The include sqljdc driver.
-  
-  
-  -Change the connection string in **dbConnectivity.java** according to your system.
-  
-  
-  -Select **LoginUI.java** and click on run file.
+
   
   
   
